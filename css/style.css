@@ -1,0 +1,20 @@
+.wave-image {
+  position: relative;
+  top: -90px;
+}
+
+.svg {
+  opacity: 0.4;
+  margin: 20px;
+}
+
+.main-header {
+  background: linear-gradient(to left, #008f96, #2c96c8, #2655bb);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.text-bold {
+  font-family: ubuntu;
+  font-weight: bolder;
+}
